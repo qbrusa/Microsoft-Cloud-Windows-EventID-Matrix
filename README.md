@@ -8,6 +8,7 @@ The objective of this project is to compile in a table the relationships between
 - [Azure Monitor Data Schema](https://learn.microsoft.com/en-us/azure/azure-monitor/reference/)
 - [Windows Security Event IDs](https://learn.microsoft.com/en-us/windows/security/threat-protection/auditing/advanced-security-audit-policy-settings)
 - [Sysmon Event IDs](https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon)
+- [Olaf Hartong MDE Analysis](https://medium.com/falconforce/sysmon-vs-microsoft-defender-for-endpoint-mde-internals-0x01-1e5663b10347)
 
 
 ## 🍰 Contributing    
