@@ -70,7 +70,7 @@ This project is open source and available under the [MIT License](LICENSE).
 | 5156                | 3         |                                 |                 "      | ConnectionRequest          |                                             
 
 
-## Defender for Identitiy
+## Defender for Identity
 | Microsoft Event ID  | Sysmon ID | Microsoft Cloud Product         | Data Table            | ActionType                 | Description                                                                                                                       |
 | ------------------- | --------- | ------------------------------- | --------------------- | -------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
 | 4624                |           | Microsoft Defender for Identity | IdentityLogonEvents   | LogonSuccess               |                                                                                                                                   |
